@@ -1,4 +1,4 @@
-baseURL: "https://your-site.pages.dev"    # update later after Pages gives your URL
+baseURL: "https://chalisa-hugo.pages.dev"
 languageCode: "en-us"
 title: "Chalisa Collection"
 theme: "pehtheme-hugo"
