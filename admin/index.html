@@ -2,20 +2,11 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="robots" content="noindex" />
     <title>CMS</title>
+    <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
   </head>
   <body>
-    <!-- load Decap CMS app from CDN -->
-    <script src="https://unpkg.com/decap-cms@^3.8.4/dist/decap-cms.js"></script>
-    <script>
-      // tell Decap to initialize automatically and read config from /admin/config.yml
-      window.DECAP_CONFIG = null; // Decap will fetch /admin/config.yml automatically
-      if (window.CMS && window.CMS.init) {
-        // classic init is automatic when the script loads and finds /admin/config.yml
-        // no extra init needed for most setups
-      }
-    </script>
   </body>
 </html>
