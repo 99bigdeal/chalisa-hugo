@@ -4,7 +4,7 @@ backend:
   branch: "main"
   site_url: https://chalisa-hugo.pages.dev
   base_url: https://chalisa-hugo.pages.dev
-  auth_endpoint: /api/auth
+  auth_endpoint: /auth
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
 collections:
