@@ -1,0 +1,22 @@
+backend:
+  name: github
+  repo: "99bigdeal/chalisa-hugo"   # <- change this
+  branch: "main"                          # <- change if your main branch is different
+  auth:                               
+    # optional client_id can be added here if you use a custom auth flow.
+    # We'll set OAuth in Cloudflare Pages later.
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "chalisa"
+    label: "Chalisa"
+    folder: "content/chalisa"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Featured Image", name: "thumbnail", widget: "image", required: false }
+      - { label: "Chalisa Text", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }

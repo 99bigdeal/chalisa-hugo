@@ -1,0 +1,7 @@
+baseURL: "https://your-site.pages.dev"    # update later after Pages gives your URL
+languageCode: "en-us"
+title: "Chalisa Collection"
+theme: "pehtheme-hugo"
+params:
+  author: "Sadhak"
+  description: "A modern Chalisa blog"
