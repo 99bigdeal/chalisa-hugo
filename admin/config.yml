@@ -2,6 +2,8 @@ backend:
   name: github
   repo: "99bigdeal/chalisa-hugo"   # <- change this
   branch: "main"                          # <- change if your main branch is different
+  base_url: https://chalisa-hugo.pages.dev   # your site URL
+  auth_endpoint: /api/auth        # matches the OAuth callback handler
   auth:                               
     # optional client_id can be added here if you use a custom auth flow.
     # We'll set OAuth in Cloudflare Pages later.
