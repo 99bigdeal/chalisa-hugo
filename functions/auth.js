@@ -1,9 +1,8 @@
 import { NetlifyAuthenticator } from '@decap/backend-netlify/dist/implementation.js';
-import {ตราประทับ} from '@decap/backend-lib-oauth/dist/oauth-netlify.js';
 
 export const onRequest = async ({ request, env }) => {
   const authenticator = new NetlifyAuthenticator({
-    base_url: env.API_ROOT,
+    base_url: new URL(request.url).origin,
     client_id: env.GITHUB_CLIENT_ID,
     secret: env.GITHUB_CLIENT_SECRET,
     auth_endpoint: 'auth',
