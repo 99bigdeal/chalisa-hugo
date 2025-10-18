@@ -1,6 +1,6 @@
 languageCode = 'en-us'
 title = 'Chalisa.co'
-theme = 'pehtheme-hugo'
+# theme = 'pehtheme-hugo'
 
 summaryLength = 20 # <- 20 words are approximately 160 characters
 
@@ -39,9 +39,6 @@ summaryLength = 20 # <- 20 words are approximately 160 characters
   [module.hugoVersion]
     extended = false
     min = '0.116.0'
-  [[module.mounts]]
-    source = 'static'
-    target = 'static'
   [[module.mounts]]
     source = 'node_modules/flowbite/dist'
     target = 'static/flowbite'
