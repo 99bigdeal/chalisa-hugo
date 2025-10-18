@@ -4,18 +4,18 @@ body.dark-mode {
     color: #fff;
 }
 
-.dark-mode .bg-zinc-100 {
+body.dark-mode .bg-zinc-100 {
     background-color: #2a2a2a;
 }
 
-.dark-mode .prose {
+body.dark-mode .prose {
     color: #fff;
 }
 
-.dark-mode .prose h1, .dark-mode .prose h2, .dark-mode .prose h3, .dark-mode .prose h4, .dark-mode .prose h5, .dark-mode .prose h6 {
+body.dark-mode .prose h1, body.dark-mode .prose h2, body.dark-mode .prose h3, body.dark-mode .prose h4, body.dark-mode .prose h5, body.dark-mode .prose h6 {
     color: #fff;
 }
 
-.dark-mode a {
+body.dark-mode a {
     color: #58a6ff;
 }
