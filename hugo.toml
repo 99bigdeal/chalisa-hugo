@@ -1,4 +1,3 @@
-baseURL = 'https://chalisa-hugo.pages.dev/'
 languageCode = 'en-us'
 title = 'Chalisa Website'
 theme = 'pehtheme-hugo'
