@@ -12,7 +12,9 @@
   <script src="https://unpkg.com/decap-cms@^3.1.0/dist/decap-cms.js"></script>
   <script>
   CMS.init({
-    local_backend: true,
+    backend: {
+      name: 'test-repo'
+    },
     media_folder: 'static/images',
     public_folder: '/images',
     collections: [
