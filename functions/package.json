@@ -1,9 +1,0 @@
-{
-  "name": "chalisa-hugo-functions",
-  "version": "1.0.0",
-  "private": true,
-  "dependencies": {
-    "@decap/backend-lib-oauth": "^3.0.0",
-    "@decap/backend-netlify": "^3.0.0"
-  }
-}
