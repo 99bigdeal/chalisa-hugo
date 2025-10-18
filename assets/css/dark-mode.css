@@ -1,0 +1,21 @@
+/* Dark mode styles */
+body.dark-mode {
+    background-color: #1a1a1a;
+    color: #fff;
+}
+
+.dark-mode .bg-zinc-100 {
+    background-color: #2a2a2a;
+}
+
+.dark-mode .prose {
+    color: #fff;
+}
+
+.dark-mode .prose h1, .dark-mode .prose h2, .dark-mode .prose h3, .dark-mode .prose h4, .dark-mode .prose h5, .dark-mode .prose h6 {
+    color: #fff;
+}
+
+.dark-mode a {
+    color: #58a6ff;
+}
