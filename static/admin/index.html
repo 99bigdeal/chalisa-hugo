@@ -4,11 +4,32 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Content Manager</title>
-  <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+  <script src="https://unpkg.com/decap-cms@3.8.4/dist/decap-cms.js"></script>
 </head>
 <body>
   <script>
-    CMS.init({ local_backend: true });
+    var config = {
+      backend: {
+        name: "test-repo"
+      },
+      media_folder: "static/images",
+      public_folder: "/images",
+      collections: [
+        {
+          name: "chalisa",
+          label: "Chalisa",
+          folder: "content/chalisa",
+          create: true,
+          slug: "{{slug}}",
+          fields: [
+            { label: "Title", name: "title", widget: "string" },
+            { label: "Body", name: "body", widget: "markdown" }
+          ]
+        }
+      ]
+    };
+
+    CMS.init({ config });
   </script>
 </body>
 </html>
