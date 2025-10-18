@@ -1,27 +1,8 @@
-{{- with resources.Get "css/main.css" }}
-  {{- if eq hugo.Environment "development" }}
-    <link rel="stylesheet" href="{{ .RelPermalink }}">
-  {{- else }}
-    {{- with . | minify | fingerprint }}
-      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
-    {{- end }}
-  {{- end }}
-{{- end }}
-{{- with resources.Get "css/dark-mode.css" }}
-  {{- if eq hugo.Environment "development" }}
-    <link rel="stylesheet" href="{{ .RelPermalink }}">
-  {{- else }}
-    {{- with . | minify | fingerprint }}
-      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
-    {{- end }}
-  {{- end }}
-{{- end }}
-{{- with resources.Get "css/custom.css" }}
-  {{- if eq hugo.Environment "development" }}
-    <link rel="stylesheet" href="{{ .RelPermalink }}">
-  {{- else }}
-    {{- with . | minify | fingerprint }}
-      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
-    {{- end }}
-  {{- end }}
-{{- end }}
+{{- $cssFiles := slice (resources.Get "css/main.css") (resources.Get "css/dark-mode.css") (resources.Get "css/custom.css") -}}
+{{- $cssBundle := $cssFiles | resources.Concat "css/bundle.css" -}}
+{{- if eq hugo.Environment "development" -}}
+<link rel="stylesheet" href="{{ $cssBundle.RelPermalink }}">
+{{- else -}}
+{{- $cssBundle = $cssBundle | minify | fingerprint -}}
+<link rel="stylesheet" href="{{ $cssBundle.RelPermalink }}" integrity="{{ $cssBundle.Data.Integrity }}" crossorigin="anonymous">
+{{- end -}}
