@@ -1,9 +1,12 @@
-baseURL = 'https://chalisa.pages.dev/'
+baseURL = 'https://chalisa-hugo.pages.dev/'
 languageCode = 'en-us'
 title = 'Chalisa Website'
 theme = 'pehtheme-hugo'
 
 summaryLength = 20 # <- 20 words are approximately 160 characters
+
+[permalinks]
+  chalisa = '/:slug/'
 
 [params]
 	# Meta description, not exceeding 160 characters, used for the meta description within the HTML head
@@ -35,7 +38,7 @@ summaryLength = 20 # <- 20 words are approximately 160 characters
 [module]
   [module.hugoVersion]
     extended = false
-    min = "0.116.0"
+    min = '0.116.0'
   [module.mounts] # Directing the static folder to assets.
   	source = 'assets'
   	target = 'static'
