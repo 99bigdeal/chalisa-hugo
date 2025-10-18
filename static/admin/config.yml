@@ -2,16 +2,28 @@ backend:
   name: github
   repo: 99bigdeal/chalisa-hugo
   branch: main
+  # This should match the URL of your deployed site
+  site_url: https://chalisa-hugo.pages.dev/
 
-media_folder: "static/images"
+# Media files will be stored in this folder in the git repository
+media_folder: "static/images" 
+# The src attribute for uploaded media will begin with this path
 public_folder: "/images"
+
+# Optional: Add a media library for advanced image management.
+# Uncomment the lines below to enable Cloudinary.
+# media_library:
+#   name: cloudinary
+#   config:
+#     cloud_name: YOUR_CLOUD_NAME
+#     api_key: YOUR_API_KEY
 
 collections:
   - name: "chalisa"
     label: "Chalisa"
     folder: "content/chalisa"
     create: true
-    slug: "{{slug}}"
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Featured Image", name: "image", widget: "image"}
