@@ -12,30 +12,28 @@
   <script src="https://unpkg.com/decap-cms@^3.1.0/dist/decap-cms.js"></script>
   <script>
   CMS.init({
-    config: {
-      backend: {
-        name: 'github',
-        repo: '99bigdeal/chalisa-hugo',
-        branch: 'main',
-        site_url: 'https://chalisa-hugo.pages.dev/',
-      },
-      media_folder: 'static/images',
-      public_folder: '/images',
-      collections: [
-        {
-          name: 'chalisa',
-          label: 'Chalisa',
-          folder: 'content/chalisa',
-          create: true,
-          slug: '{{slug}}',
-          fields: [
-            { label: 'Title', name: 'title', widget: 'string' },
-            { label: 'Featured Image', name: 'image', widget: 'image' },
-            { label: 'Body', name: 'body', widget: 'markdown' },
-          ],
-        },
-      ],
+    backend: {
+      name: 'github',
+      repo: '99bigdeal/chalisa-hugo',
+      branch: 'main',
+      site_url: 'https://chalisa-hugo.pages.dev/',
     },
+    media_folder: 'static/images',
+    public_folder: '/images',
+    collections: [
+      {
+        name: 'chalisa',
+        label: 'Chalisa',
+        folder: 'content/chalisa',
+        create: true,
+        slug: '{{slug}}',
+        fields: [
+          { label: 'Title', name: 'title', widget: 'string' },
+          { label: 'Featured Image', name: 'image', widget: 'image' },
+          { label: 'Body', name: 'body', widget: 'markdown' },
+        ],
+      },
+    ],
   });
   </script>
 </body>
