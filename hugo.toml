@@ -8,7 +8,7 @@ summaryLength = 20 # <- 20 words are approximately 160 characters
 [params]
 	# Meta description, not exceeding 160 characters, used for the meta description within the HTML head
 	description = 'A modern, beautiful, and fast Chalisa website.'
-	mainSections = 'posts'
+	mainSections = 'chalisa'
 
 [author]
 	name = 'Your Name'
