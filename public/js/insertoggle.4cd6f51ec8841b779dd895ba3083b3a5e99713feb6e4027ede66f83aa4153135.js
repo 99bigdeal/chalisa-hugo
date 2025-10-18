@@ -1,0 +1,1 @@
+(()=>{var o=document.getElementById("dark-mode-toggle"),e=document.body,t=localStorage.getItem("theme");t&&e.classList.add(t);o.addEventListener("click",()=>{e.classList.contains("dark-mode")?(e.classList.remove("dark-mode"),localStorage.setItem("theme","")):(e.classList.add("dark-mode"),localStorage.setItem("theme","dark-mode"))});})();
