@@ -3,5 +3,6 @@ languageCode: "en-us"
 title: "Chalisa Collection"
 theme: "pehtheme-hugo"
 params:
-  author: "Sadhak"
+  author:
+    name: "Sadhak"
   description: "A modern Chalisa blog"
