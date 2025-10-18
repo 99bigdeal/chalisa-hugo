@@ -1,46 +1,97 @@
 ---
 title: Ganesh Chalisa
+image: /images/ganesh-chalisa.webp
 ---
 
-## Ganesh Chalisa
+## Ganesh Chalisa | गणेश चालीसा
 
-### Doha
+### ॥ दोहा ॥
 
-Jai Ganapati Sadguna Sadan, Kavivar Badan Kripaal | 
-Vighna Haran Mangal Karan, Jai Jai Girijaalaal ||
+जय गणपति सदगुण सदन, कविवर बदन कृपाल।
+विघ्न हरण मंगल करण, जय जय गिरिजालाल॥
 
-### Chaupai
+### ॥ चौपाई ॥
 
-Jai Jai Jai Ganapati Ganaraaju | Mangal Bharan Karan Shubha Kaaju ||
-Jai Gajabadan Sadan Sukhadaata | Vishva Vinaayaka Buddhi Vidhaata ||
-Vakra Tunda Shuchi Shunda Suhaavan | Tilaka Tripunda Bhaala Mana Bhaavan ||
-Raajata Mani Muktana Ura Maala | Svarna Mukuta Shira Nayana Vishaala ||
-Pustaka Paani Kuthaara Trishuulam | Modaka Bhoga Sugandhita Phuulam ||
-Sundara Piitaambara Tana Saajita | Charana Paaduka Muni Mana Raajita ||
-Dhani Shiva Suvana Shadaanana Bhraata | Gaurii Lalana Vishva-Vidhaata ||
-Riddhi Siddhi Tava Chanvara Sudhaare | Muushaka Vaahana Sohata Dvaare ||
-Kahaun Janma Shubha Kathaa Tumhaarii | Ati Shuchi Paavana Mangalakaarii ||
-Eka Samaya Giriraaj Kumaarii | Putra Hetu Tapa Kiinhaa Bhaarii ||
-Bhayo Yagya Jaba Puurna Anupa | Taba Pahunchyo Tuma Dhari Dvija Rupa ||
-Atithi Jaani Kai Gaurii Sukhaarii | Bahuvidhi Sevaa Karii Tumhaarii ||
-Ati Prasanna Hvai Tuma Vara Diinhaa | Maatu Putra Hita Jo Tapa Kiinhaa ||
-Milahii Putra Tuhin Buddhi Vishaala | Binaa Garbha Dhaarana Yahi Kaala ||
-Gananaayaka, Guna Gyaana Nidhaana | Puujita Prathama Rupa Bhagavana ||
-Asa Kahi Antardhyaana Rupa Hvai | Palana Para Baalaka Svaruupa Hvai ||
-Bani Shishu Rudana Jabahi Tuma Thaana | Lakhi Mukha Sukha Nahin Gauri Samaana ||
-Sakala Magana, Sukha Mangala Gaavahin | Nabha Te Surana Sumana Varshaavahin ||
-Shambhu Umaa Bahu Daana Lutaavahin | Sura Munijana Suta Dekhana Aavahin ||
-Lakhi Ati Aananda Mangala Saaja | Dekhana Bhii Aaye Shani Raaja ||
-Nija Avaguna Guni Shani Mana Maahiin |Baalaka, Dekhan Chaahata Naahiin ||
-Girajaa Kachhu Mana Bheda Badhaayo | Utsava Mora Na Shani Tuhi Bhaayo ||
-Kahana Lage Shani, Mana Sakuchaai | Kaa Karihau, Shishu Mohi Dikhaai ||
-Nahin Vishvaasa, Umaa Ura Bhayauu |Shani So Baalaka Dekhana Kahyau ||
-Padatagahin, Shani Driga Kona Prakaasha | Baalaka Shira Udi Gayo Aakaasha ||
-Girajaa Giriin Vikala Hvai Dharanii | So Dukha Dasha Gayo Nahin Varanii ||
-Haahaakaara Machyo Kailaasha | Shani Kiinho Lakhi Suta Ko Naasha ||
-Turata Garuda Chadhi Vishnu Sidhaaye | Kaati Chakra So Gaja Shira Laaye ||
-Baalaka Ke Dhada Upara Dhaarayo | Praana, Mantra Padha Shankara Daarayo ||
-Naama ‘Ganesha’ Shambhu Taba Kiinhe | Prathama Puujya Buddhi Nidhi, Vara Diinhe ||
-Buddhi Pariikshaa Jaba Shiva Kiinhaa | Prathama Puujya Taba Prabhu Vara Diinhaa ||
-Jagata Jananii Tava Daasa, Riddhi Siddhi Phala Daasa |
-Jai Ganapati Sadguna Sadan, Mangala Muurati, Aasha ||
+जय जय जय गणपति गणराजू। मंगल भरण करण शुभः काजू ॥ ०१ ॥
+
+जै गजबदन सदन सुखदाता। विश्व विनायका बुद्धि विधाता ॥ ०२ ॥
+
+वक्र तुण्ड शुची शुण्ड सुहावना। तिलक त्रिपुण्ड भाल मन भावन ॥ ०३ ॥
+
+राजत मणि मुक्तन उर माला। स्वर्ण मुकुट शिर नयन विशाला ॥ ०४ ॥
+
+पुस्तक पाणि कुठार त्रिशूलं। मोदक भोग सुगन्धित फूलं ॥ ०५ ॥
+
+सुन्दर पीताम्बर तन साजित। चरण पादुका मुनि मन राजित ॥ ०६ ॥
+
+धनि शिव सुवन षडानन भ्राता। गौरी लालन विश्व-विख्याता ॥ ०७ ॥
+
+ऋद्धि-सिद्धि तव चंवर सुधारे। मुषक वाहन सोहत द्वारे ॥ ०८ ॥
+
+कहौ जन्म शुभ कथा तुम्हारी। अति शुची पावन मंगलकारी ॥ ०९ ॥
+
+एक समय गिरिराज कुमारी। पुत्र हेतु तप कीन्हा भारी ॥ १० ॥
+
+भयो यज्ञ जब पूर्ण अनूपा। तब पहुंच्यो तुम धरी द्विज रूपा ॥ ११ ॥
+
+अतिथि जानी के गौरी सुखारी। बहुविधि सेवा करी तुम्हारी ॥ १२ ॥
+
+अति प्रसन्न हवै तुम वर दीन्हा। मातु पुत्र हित जो तप कीन्हा ॥ १३ ॥
+
+मिलहि पुत्र तुहि, बुद्धि विशाला। बिना गर्भ धारण यहि काला ॥ १४ ॥
+
+गणनायक गुण ज्ञान निधाना। पूजित प्रथम रूप भगवाना ॥ १५ ॥
+
+अस कही अन्तर्धान रूप हवै। पालना पर बालक स्वरूप हवै ॥ १६ ॥
+
+बनि शिशु रुदन जबहिं तुम ठाना। लखि मुख सुख नहिं गौरी समाना ॥ १७ ॥
+
+सकल मगन, सुखमंगल गावहिं। नाभ ते सुरन, सुमन वर्षावहिं ॥ १८ ॥
+
+शम्भु, उमा, बहुदान लुटावहिं। सुर मुनिजन, सुत देखन आवहिं ॥ १९ ॥
+
+लखि अति आनन्द मंगल साजा। देखन भी आये शनि राजा ॥ २० ॥
+
+निज अवगुण गुनि शनि मन माहीं। बालक, देखन चाहत नाहीं ॥ २१ ॥
+
+गिरिजा कछु मन भेद बढायो। उत्सव मोर, न शनि तुही भायो ॥ २२ ॥
+
+कहत लगे शनि, मन सकुचाई। का करिहौ, शिशु मोहि दिखाई ॥ २३ ॥
+
+नहिं विश्वास, उमा उर भयऊ। शनि सों बालक देखन कहयऊ ॥ २४ ॥
+
+पदतहिं शनि दृग कोण प्रकाशा। बालक सिर उड़ि गयो अकाशा ॥ २५ ॥
+
+गिरिजा गिरी विकल हवै धरणी। सो दुःख दशा गयो नहीं वरणी ॥ २६ ॥
+
+हाहाकार मच्यौ कैलाशा। शनि कीन्हों लखि सुत को नाशा ॥ २७ ॥
+
+तुरत गरुड़ चढ़ि विष्णु सिधायो। काटी चक्र सो गज सिर लाये ॥ २८ ॥
+
+बालक के धड़ ऊपर धारयो। प्राण मन्त्र पढ़ि शंकर डारयो ॥ २९ ॥
+
+नाम गणेश शम्भु तब कीन्हे। प्रथम पूज्य बुद्धि निधि, वर दीन्हे ॥ ३० ॥
+
+बुद्धि परीक्षा जब शिव कीन्हा। पृथ्वी कर प्रदक्षिणा लीन्हा ॥ ३१ ॥
+
+चले षडानन, भरमि भुलाई। रचे बैठ तुम बुद्धि उपाई ॥ ३२ ॥
+
+चरण मातु-पितु के धर लीन्हें। तिनके सात प्रदक्षिण कीन्हें ॥ ३३ ॥
+
+धनि गणेश कही शिव हिये हरषे। नभ ते सुरन सुमन बहु बरसे ॥ ३४ ॥
+
+तुम्हरी महिमा बुद्धि बड़ाई। शेष सहसमुख सके न गाई ॥ ३५ ॥
+
+मैं मतिहीन मलीन दुखारी। करहूं कौन विधि विनय तुम्हारी ॥ ३६ ॥
+
+भजत रामसुन्दर प्रभुदासा। जग प्रयाग, ककरा, दुर्वासा ॥ ३७ ॥
+
+अब प्रभु दया दीना पर कीजै। अपनी शक्ति भक्ति कुछ दीजै ॥ ३८ ॥
+
+॥ दोहा ॥
+
+श्री गणेश यह चालीसा, पाठ करै कर ध्यान।
+नित नव मंगल गृह बसै, लहे जगत सन्मान॥
+
+सम्बन्ध अपने सहस्त्र दश, ऋषि पंचमी दिनेश।
+पूरण चालीसा भयो, मंगल मूर्ती गणेश ॥
