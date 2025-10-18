@@ -1,5 +1,6 @@
 ---
 title: Hanuman Chalisa
+image: /images/hanuman-chalisa.png
 ---
 
 ## Hanuman Chalisa
