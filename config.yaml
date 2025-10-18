@@ -1,8 +1,0 @@
-baseURL: "https://chalisa-hugo.pages.dev"
-languageCode: "en-us"
-title: "Chalisa Collection"
-theme: "pehtheme-hugo"
-params:
-  author:
-    name: "Sadhak"
-  description: "A modern Chalisa blog"
